@@ -9,9 +9,6 @@ export default {
    height: "5px",
    continuous: false
   },
-    axios: {
-     //proxy: true
-      },
     css: ['~/assets/main.css'],
     script: [
         {
@@ -33,9 +30,6 @@ export default {
           content: 'This website made with <3 & Nuxt.js by FalsisDev '
         }
     ],
-    loading: {
-        color: "303136"
-    },
     modules: ['@nuxtjs/axios'],
     target: 'static'
   }
