@@ -7,7 +7,7 @@ export default {
    color: "00DC82",
    filedColor: "ff6961",
    height: "5px",
-   continuous: false
+   continuous: true
   },
     css: ['~/assets/main.css'],
     script: [
